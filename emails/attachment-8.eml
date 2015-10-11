@@ -1,0 +1,68 @@
+Received: from mistered.it.wsu.edu (134.121.137.5) by wsu.edu (10.49.241.43)
+ with Microsoft SMTP Server id 14.3.195.1; Thu, 21 Aug 2014 08:25:27 -0700
+Received: from mx0b-0007b301.pphosted.com (mx0b-0007b301.pphosted.com
+ [67.231.152.34])	by mistered.it.wsu.edu (8.13.8/8.13.8) with ESMTP id
+ s7LFPQIN025857	for <cbenbrook@wsu.edu>; Thu, 21 Aug 2014 08:25:27 -0700
+Received: from pps.filterd (m0000689 [127.0.0.1])	by
+ mx0b-0007b301.pphosted.com (8.14.5/8.14.5) with SMTP id s7LFNSvx013069	for
+ <cbenbrook@wsu.edu>; Thu, 21 Aug 2014 08:25:26 -0700
+Received: from mail-outd.mail.t-online.hu (mail-outd.mail.t-online.hu
+ [195.228.240.54])	by mx0b-0007b301.pphosted.com with ESMTP id 1nwk7p812y-1
+	for <cbenbrook@wsu.edu>; Thu, 21 Aug 2014 08:25:26 -0700
+Received: from maxbe02d.t-online.private (maxbe02d.t-online.private
+ [172.27.72.76])	by mail01k.mail.t-online.hu (Postfix) with ESMTP id
+ 3hf8nK04HNzDRb	for <cbenbrook@wsu.edu>; Thu, 21 Aug 2014 17:25:24 +0200
+ (CEST)
+Received: by maxbe02d.t-online.private (Postfix, from userid 999)	id
+ E7DCB64782; Thu, 21 Aug 2014 17:25:24 +0200 (CEST)
+From: "bardocz.zsuzsa@t-online.hu" <bardocz.zsuzsa@t-online.hu>
+To: "Benbrook, Chuck" <cbenbrook@wsu.edu>
+CC: "Benbrook, Chuck" <cbenbrook@wsu.edu>
+Subject: 
+Thread-Index: AQHPvVQjFhM56vIjrUGdZ53qv1BbKA==
+Date: Thu, 21 Aug 2014 15:25:24 +0000
+Message-ID: <MTelekom-VM.20140721172524.79582@maxbe02d.t-online.private>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthSource: EXCH-03.ad.wsu.edu
+X-MS-Has-Attach: 
+X-MS-Exchange-Organization-SenderIdResult: None
+X-MS-Exchange-Organization-PRD: t-online.hu
+X-MS-TNEF-Correlator: 
+received-spf: None (EXCH-03.ad.wsu.edu: bardocz.zsuzsa@t-online.hu does not
+ designate permitted sender hosts)
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <4A73F4519CB47140B36B4C7F1A6E6DF8@ad.wsu.edu>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+DQoNCmVhciBDaHVjaywNCldlIHdpbGwgYmUgaW4gQWJlcmRlZW4gZnJvbSBtaWQtRGVjZW1iZXIg
+dGlsbCBGZWJydWFyeS4NCllvdWEgcmUgdmVyeSB3ZWxjb21lIGFuZCB3ZSB3b3VsZCBsb3ZlIHRv
+IHNlZSB5b3UsIGFuZA0KS2Fyb2wsIGFsd2F5cy4NCkFycGFkIGlzIHRoZSBzYW1lLiBIZSBzdGls
+bCBjYW5ub3Qgc3BlYWsgYW5kIG5lZWRzIDI0IGgNCnRha2luZyBjYXJlIG9mIC4gSGF2aW5nIHNp
+ZCB0aGlzIGhlIGlzIGZpbmUsIGFuZCBoZQ0KdW5kZXJzdGFuZHMgZXZlcnl0aGluZywgYnV0IHVu
+YWJsZSB0byByZXNwb25kIHRvIGFueXRoaW5nLg0KQXMgZmFyIGFzIEdFIGZvb2RzIGFyZSBmdWxs
+eSB0ZXN0ZWQgYW5kIGFsbCBpcyB3ZWxsIHdpdGgNCnRoZW0sIG9mIGNvdXJzZSBpdCBpcyBhIGJp
+ZyBsaWUuIFRoZXkgdXNlIGFyZ3VtZW50IHRvIHByb3ZlDQpzYWZldHkgYW5kICBub3QgdG8gZG8g
+dGhlIGJhc2ljIHRlc3Qgd2hpY2ggd291bGQgbm90IHN0YW5kDQp1cCBpbiBhIHNjaWVudGlmaWMg
+cGFwZXIuIEkgaGF2ZSBpbnRlbmRlZCB0byB3cml0ZSB0aGlzIGFsbA0KdXAgYXMgYSBtZW1vIGZv
+ciB0aGUgSHVuZy4gYXV0aG9yaXRpZXMsIGJ1dCBuZXZlciBoYWQgdGhlDQp0aW1lLiBJIGFtIHdv
+cmtpbmcgb24gdGhlIG5ldCBkb2luZyBzY2kuIG9wIG9uIHRoZSBkb3NzaWVycy4NCkFzIGZhciBh
+cyBCdCBpcyBjb25zZXJuZWQsIHRoZXkgaGF2ZSBuZXZlciBkb25lIGFueSBwcm9wZXINCmV4cGVy
+aW1lbnQgdG8gc2hvdyB0aGF0DQp0aGVyZSBhcmUgbm8gcmVjZXB0b3JzIGluIG1hbW1hbHMgYW5k
+IGh1bWFucw0KdGhhdCBpdCBicmVha3MgZG93biB1bmRlciBpbiB2aXZvIGNvbmRpdGlvbnMuDQpJ
+IGFtIHN1cmUgdGhlcmUgYXJlIHJlY2VwdG9ycywgb3RoZXJ3aXNlIHRoZXJlIHdvdWxkIG4wdCBi
+ZQ0KYW4gaW1tdW5lIHJlc3BvbnNlLiBJIGFtIHN1cmUgaXQgZG9lcyBub3QgYnJha2UgZG93biBl
+aXRoZXIsDQpvciByYXRoZXIgaXQgYnJlYWtzIGRvd24gdG8gYSBzbWFsbGVyIG1vbGVjdWxlIHdo
+aWNoIHN0aWxsDQpoYXZlIHRoZSBhYmlsaXR5IHRvIGJpbmQuIE5vb25lIHdhbnRzIHRvIGRvIHRo
+ZSBwcm9wZXINCmV4cGVyaW1lbnQuDQpJIGFtIHZlcnkgYnVzeSBhdCB0aGUgbW9tZW50IHdpdGgg
+bXkgb3duIHdvcmssIGEgR00NCnJhcGVzZWVkLiBVbmZvcnR1bmF0ZWx5IEkgaGF2ZSBubyBhY2Nl
+c3MgdG8gYSBsaWJyYXJ5IHRvIGRvDQphIGxpdCBzZWFyY2guIFNpbmNlIEkgYW0gb3V0IG9mIHRo
+ZSBsYWIgZm9yIDE0IHllYXJzIG5vdyBJDQpkbyBub3Qga25vdyB3aG9tIHRvIHN1Z2dlc3QuIEkg
+d291bGQgYmUgaGFwcHkgdG8gdGFsayB0byB5b3UNCm9uIHNreXBlIGFuZCB0ZWxsIHlvdSBhbGwg
+SSBrbm93IGFuZCBzb21lIG9mIHRoZSBwcm9ibGVtcyBpDQpoYXZlIGVuY291bnRlcmVkLg0KDQpN
+YWludGltZSwgSSB0cnkgdG8gZ2V0IHNvbWUgcGFwZXJzIEkgaGF2ZSB0b2dldGhlciBhbmQNCmhp
+Z2hsaWdodCB0aGUgbW9zdCBpbXBvcnRhbnQgdGhpbmtzLg0KTXkgc2t5cGUgbmFtZSBpcyBac3V6
+c2FhcnBpLCBvciBCYXJkb2N6IFpzdXpzYS4gSSBhbSBvbiB0aGUNCmNvbXB1dGVyIGFib3V0IDct
+OCBwbS4gR01ULiBXaGF0IGlzIHlvdXIgc2t5cGUgbmFtZT8NCkNhbiBJIGNvbnRhY3QgeW91Pw0K
+SXQgd291bGQgYmUgZWFzaWVyIHRvIGV4cGxhaW4gc29tZSBvZiB0aGUgcHJvYmxlbXMuDQpMb3Rz
+IG9mIGxvdmUsDQpTdXNhbg0K

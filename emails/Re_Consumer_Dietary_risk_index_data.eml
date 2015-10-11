@@ -1,0 +1,506 @@
+From: "Benbrook, Chuck" <cbenbrook@wsu.edu>
+To: Patrick Shannon-Hughes <pshannon-hughes@ipminstitute.org>
+Subject: Re: Consumer Dietary risk index data
+Thread-Topic: Consumer Dietary risk index data
+Thread-Index: Ac9dhzL+tbiulStiQUO9brIVTv7KmQA+RTGAAIZi1QAAmtUEAA==
+Date: Mon, 28 Apr 2014 17:13:28 +0000
+Message-ID: <CF83DA25.7D626%cbenbrook@wsu.edu>
+References: <00ce01cf5d87$33e382b0$9baa8810$@org>
+ <CF7C44F8.7AC60%cbenbrook@wsu.edu> <01ae01cf609b$1214e3b0$363eab10$@org>
+In-Reply-To: <01ae01cf609b$1214e3b0$363eab10$@org>
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-ms-exchange-organization-originalclientipaddress: 67.44.161.41
+x-ms-exchange-organization-originalserveripaddress: 10.49.241.42
+Content-Type: multipart/alternative;
+	boundary="_000_CF83DA257D626cbenbrookwsuedu_"
+MIME-Version: 1.0
+
+--_000_CF83DA257D626cbenbrookwsuedu_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+Lets talk through this, so you have a deeper appreciation of what is availa=
+ble.
+
+
+Charles Benbrook, Research Professor and Program Leader
+"Measure to Manage (M2M): Farm and Food Diagnostics for Sustainability and =
+Health"
+Center for Sustaining Agriculture and Natural Resources
+Washington State University
+
+Office and mailing address:
+90063 Troy Road
+Enterprise, Oregon 97828
+Work Phone: 541-828-7918
+Cell (works only when on travel): 208-290-8707
+Email: cbenbrook@wsu.edu
+
+
+
+From: Patrick Shannon-Hughes <pshannon-hughes@ipminstitute.org<mailto:pshan=
+non-hughes@ipminstitute.org>>
+Date: Friday, April 25, 2014 8:28 AM
+To: Charles Benbrook <cbenbrook@wsu.edu<mailto:cbenbrook@wsu.edu>>
+Subject: RE: Consumer Dietary risk index data
+
+
+
+Ok thanks Chuck. The aim of the document was to highlight any potential iss=
+ues in wiring up new indices to PRiME- such as new data input required on t=
+he user interface. We=92re hoping to start wiring up the DRI index in May- =
+are there any issues that you think of that need to be addressed before thi=
+s can happen?
+
+
+
+Cheers,
+
+Patrick
+
+
+
+From: Benbrook, Chuck [mailto:cbenbrook@wsu.edu]
+Sent: Tuesday, April 22, 2014 6:12 PM
+To: Patrick Shannon-Hughes
+Subject: Re: Consumer Dietary risk index data
+
+
+
+
+
+Patrick --
+
+
+
+Is this for making the DRI operational in PRiME?  If yes, we will give you =
+the values by food-chemical combination.  You will not get, and do not need=
+ the residue data, nor the other parameters required to calculate the DRI.
+
+
+
+Chuck
+
+
+
+Charles Benbrook, Research Professor and Program Leader
+
+"Measure to Manage (M2M): Farm and Food Diagnostics for Sustainability and =
+Health"
+
+Center for Sustaining Agriculture and Natural Resources
+
+Washington State University
+
+
+
+Office and mailing address:
+
+90063 Troy Road
+
+Enterprise, Oregon 97828
+
+Work Phone: 541-828-7918
+
+Cell (works only when on travel): 208-290-8707
+
+Email: cbenbrook@wsu.edu<mailto:cbenbrook@wsu.edu>
+
+
+
+
+
+
+
+From: Patrick Shannon-Hughes <pshannon-hughes@ipminstitute.org<mailto:pshan=
+non-hughes@ipminstitute.org>>
+Date: Monday, April 21, 2014 10:29 AM
+To: Charles Benbrook <cbenbrook@wsu.edu<mailto:cbenbrook@wsu.edu>>
+Subject: Consumer Dietary risk index data
+
+
+
+Hi Chuck,
+
+
+
+I=92m trying to put together a table of the data required for the DRI for o=
+ur meeting next week. I=92ve attach what I=92ve got so far, I developed thi=
+s using the white paper written by you back in 2011. Have there been develo=
+pments since then? Was there progress on how to account for use pattern adj=
+ustment factors or state variations in residues?
+
+
+
+Thanks in advance for your help.
+
+
+
+Cheers,
+
+Patrick
+
+
+
+Patrick Shannon-Hughes
+
+Project Team Member
+
+IPM Institute of North America, Inc.
+
+(608) 232-1410 / Fax (608) 232-1440
+
+4510 Regent Street, Madison, WI 53705
+
+pshannon-hughes@ipminstitute.org<mailto:jpetzoldt@ipminstitute.org>
+
+support@ipmPRIME.com
+
+www.ipminstitute.org<http://www.ipminstitute.org/>
+
+www.ipmprime.com
+
+
+
+
+--_000_CF83DA257D626cbenbrookwsuedu_
+Content-Type: text/html; charset="Windows-1252"
+Content-ID: <EFA1F6F0A5CAD14C944D847ED0016A13@ad.wsu.edu>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-lin=
+e-break: after-white-space; color: rgb(0, 0, 0); font-size: 14px; font-fami=
+ly: Calibri, sans-serif; ">
+<div>
+<div>
+<div><br>
+</div>
+<div><span class=3D"Apple-tab-span" style=3D"white-space:pre"></span>Lets t=
+alk through this, so you have a deeper appreciation of what is available.</=
+div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div>
+<div>
+<div>Charles Benbrook, Research Professor and Program Leader</div>
+<div>&quot;Measure to Manage (M2M): Farm and Food Diagnostics for Sustainab=
+ility and Health&quot;</div>
+<div>Center for Sustaining Agriculture and Natural Resources</div>
+<div>Washington State University</div>
+<div><br>
+</div>
+<div>Office and mailing address:</div>
+<div>90063 Troy Road</div>
+<div>Enterprise, Oregon 97828</div>
+<div>Work Phone: 541-828-7918</div>
+<div>Cell (works only when on travel): 208-290-8707</div>
+<div>Email: cbenbrook@wsu.edu</div>
+<div><br>
+</div>
+<div><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div><br>
+</div>
+<span id=3D"OLK_SRC_BODY_SECTION">
+<div style=3D"font-family:Calibri; font-size:11pt; text-align:left; color:b=
+lack; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM:=
+ 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: #b5c4df 1pt solid;=
+ BORDER-RIGHT: medium none; PADDING-TOP: 3pt">
+<span style=3D"font-weight:bold">From: </span>Patrick Shannon-Hughes &lt;<a=
+ href=3D"mailto:pshannon-hughes@ipminstitute.org">pshannon-hughes@ipminstit=
+ute.org</a>&gt;<br>
+<span style=3D"font-weight:bold">Date: </span>Friday, April 25, 2014 8:28 A=
+M<br>
+<span style=3D"font-weight:bold">To: </span>Charles Benbrook &lt;<a href=3D=
+"mailto:cbenbrook@wsu.edu">cbenbrook@wsu.edu</a>&gt;<br>
+<span style=3D"font-weight:bold">Subject: </span>RE: Consumer Dietary risk =
+index data<br>
+</div>
+<div><br>
+</div>
+<div xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micro=
+soft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" x=
+mlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schemas=
+.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html4=
+0">
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.apple-tab-span
+	{mso-style-name:apple-tab-span;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+<div lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Ok thanks Chuck. The a=
+im of the document was to highlight any potential issues in wiring up new i=
+ndices to PRiME- such as new data input required on the user interface. We=
+=92re hoping to start wiring up the DRI
+ index in May- are there any issues that you think of that need to be addre=
+ssed before this can happen?<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Cheers,<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Patrick <o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"font-size: 10pt; font-family: Taho=
+ma, sans-serif; ">From:</span></b><span style=3D"font-size: 10pt; font-fami=
+ly: Tahoma, sans-serif; "> Benbrook, Chuck [<a href=3D"mailto:cbenbrook@wsu=
+.edu">mailto:cbenbrook@wsu.edu</a>]
+<br>
+<b>Sent:</b> Tuesday, April 22, 2014 6:12 PM<br>
+<b>To:</b> Patrick Shannon-Hughes<br>
+<b>Subject:</b> Re: Consumer Dietary risk index data<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Patrick=
+ --<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Is this=
+ for making the DRI operational in PRiME? &nbsp;If yes, we will give you th=
+e values by food-chemical combination. &nbsp;You will not get, and do not n=
+eed the residue data, nor the other parameters
+ required to calculate the DRI.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Chuck<o=
+:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Charles=
+ Benbrook, Research Professor and Program Leader<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">&quot;M=
+easure to Manage (M2M): Farm and Food Diagnostics for Sustainability and He=
+alth&quot;<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Center =
+for Sustaining Agriculture and Natural Resources<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Washing=
+ton State University<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Office =
+and mailing address:<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">90063 T=
+roy Road<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Enterpr=
+ise, Oregon 97828<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Work Ph=
+one: 541-828-7918<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Cell (w=
+orks only when on travel): 208-290-8707<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black">Email: =
+<a href=3D"mailto:cbenbrook@wsu.edu">
+cbenbrook@wsu.edu</a><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b><span style=3D"color:black">From: </span></b><spa=
+n style=3D"color:black">Patrick Shannon-Hughes &lt;<a href=3D"mailto:pshann=
+on-hughes@ipminstitute.org">pshannon-hughes@ipminstitute.org</a>&gt;<br>
+<b>Date: </b>Monday, April 21, 2014 10:29 AM<br>
+<b>To: </b>Charles Benbrook &lt;<a href=3D"mailto:cbenbrook@wsu.edu">cbenbr=
+ook@wsu.edu</a>&gt;<br>
+<b>Subject: </b>Consumer Dietary risk index data<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;color:black"><o:p>&n=
+bsp;</o:p></span></p>
+</div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">Hi Chuck,<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"color:black">I=92m trying to put toge=
+ther a table of the data required for the DRI for our meeting next week. I=
+=92ve attach what I=92ve got so far, I developed this using the white paper=
+ written by you back in 2011. Have there been
+ developments since then? Was there progress on how to account for use patt=
+ern adjustment factors or state variations in residues?
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"color:black">Thanks in advance for yo=
+ur help.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"color:black">Cheers,<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">Patrick<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;color:black">Patr=
+ick Shannon-Hughes</span></b><span style=3D"color:black"><o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;color:black">Proj=
+ect Team Member</span></b><span style=3D"color:black"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:black">IPM Ins=
+titute of North America, Inc.</span><span style=3D"color:black"><o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:black">(608) 2=
+32-1410 / Fax (608) 232-1440</span><span style=3D"color:black"><o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:black">4510 Re=
+gent Street, Madison, WI 53705</span><span style=3D"color:black"><o:p></o:p=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:black"><a href=
+=3D"mailto:jpetzoldt@ipminstitute.org">pshannon-hughes@ipminstitute.org</a>=
+</span><span style=3D"color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:black"><a href=
+=3D"support@ipmPRIME.com">support@ipmPRIME.com</a></span><span style=3D"col=
+or:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:black"><a href=
+=3D"http://www.ipminstitute.org/">www.ipminstitute.org</a></span><span styl=
+e=3D"color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:black"><a href=
+=3D"www.ipmprime.com">www.ipmprime.com</a></span><span style=3D"color:black=
+"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black">&nbsp;<o:p></o:p></span>=
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</span>
+</body>
+</html>
+
+--_000_CF83DA257D626cbenbrookwsuedu_--
